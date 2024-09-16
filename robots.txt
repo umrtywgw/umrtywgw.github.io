@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://umrtywgw.github.io/sitemap/sitemap.txt
